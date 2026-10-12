@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Hyrule",
+		"leaderName": "Princess Zelda",
+		"adjective": ["Hylian"],
+		"startBias": ["Forest", "Grassland"],
+		"preferredVictoryType": "Cultural",
+		"outerColor": [27, 94, 32],
+		"innerColor": [255, 215, 0],
+		"uniqueName": "Spirit of Hyrule",
+		"uniques": [
+			"[+25]% [Gold] from Trade Routes",
+			"[+1 Gold] from each Trade Route",
+			"[-25]% maintenance on road & railroads",
+			"[+1 Food] from [Wheat] tiles [in all cities]",
+			"[+1 Food] from [Cattle] tiles [in all cities]",
+			"[+1 Food] from [Deer] tiles [in all cities]",
+			"[+5]% growth [in all cities]"
+		],
+		"startIntroPart1": "Princess Zelda, heir to the old royal line, welcome. Hyrule is a land of green fields, quiet forests and busy roads, and its people have always valued peace and the open trade route.",
+		"startIntroPart2": "Build farms and ranches, keep the caravans moving, and grow a kingdom whose bounty and wisdom can stand against any who would threaten it.",
+		"introduction": "I am Zelda of Hyrule. May our roads be safe and our harvests plentiful.",
+		"neutralHello": "Greetings, traveler. Hyrule's gates are open to honest trade.",
+		"hateHello": "You are not welcome on our roads. Say what you came to say and go.",
+		"tradeRequest": "Our merchants would gladly deal with yours. Shall we see what is fair?",
+		"declaringFriendship": "Let our kingdoms walk the same road together.",
+		"declaringWar": "You have threatened my people. Hyrule will answer.",
+		"attacked": "Your blades are drawn against Hyrule? You will regret it.",
+		"defeated": "The kingdom may fall, but the spirit of Hyrule will not.",
+		"denounced": "You have betrayed our trust, and the world shall know it.",
+		"neutralDenouncing": "I denounce your actions. Reconsider them.",
+		"hateDenouncing": "You are a menace to all who value peace.",
+		"neutralRejectingDemand": "Hyrule does not bend to demands.",
+		"hateRejectingDemand": "Never. Take your demand and leave.",
+		"cities": [
+			"Castle Town", "Kakariko", "Lon Lon", "Hateno", "Lake Hylia",
+			"Zora's Domain", "Goron City", "Gerudo Town", "Lost Woods", "Lanayru",
+			"Faron", "Eldin", "Akkala", "Necluda", "Hebra",
+			"Tabantha", "Ordon", "Snowpeak", "Skyloft", "Hyrule Field",
+			"Korok Forest", "Rito Village", "Dueling Peaks", "Lurelin", "Rauru",
+			"Mido", "Tarrey Town", "Kara Kara", "Wasteland", "Sacred Grove"
+		]
+	}
+]

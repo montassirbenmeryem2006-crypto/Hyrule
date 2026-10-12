@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Korok Grove",
+		"uniqueTo": "Hyrule",
+		"terrainsCanBeBuiltOn": ["Forest"],
+		"food": 1,
+		"culture": 1,
+		"turnsToBuild": 5,
+		"techRequired": "Calendar",
+		"uniques": [
+			"[+1 Food] <after discovering [Fertilizer]>",
+			"Pillaging this improvement yields approximately [+10 Gold]"
+		],
+		"shortcutKey": "K"
+	}
+]

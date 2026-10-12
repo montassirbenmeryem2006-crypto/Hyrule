@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Sheikah Archer",
+		"unitType": "Archery",
+		"replaces": "Archer",
+		"uniqueTo": "Hyrule",
+		"cost": 40,
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 7,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"uniques": [
+			"[+1] Sight",
+			"Ranged attacks may be performed over obstacles"
+		]
+	},
+	{
+		"name": "Royal Guard",
+		"unitType": "Sword",
+		"replaces": "Swordsman",
+		"uniqueTo": "Hyrule",
+		"cost": 75,
+		"movement": 2,
+		"strength": 14,
+		"hurryCostModifier": 20,
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
+		"obsoleteTech": "Steel",
+		"upgradesTo": "Longswordsman",
+		"uniques": [
+			"[+25]% Strength <when defending>"
+		]
+	},
+	{
+		"name": "Hylian Rider",
+		"unitType": "Mounted",
+		"replaces": "Horseman",
+		"uniqueTo": "Hyrule",
+		"cost": 80,
+		"movement": 4,
+		"strength": 12,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"obsoleteTech": "Chivalry",
+		"upgradesTo": "Knight",
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"[+15]% Strength <when fighting in [Open terrain] tiles>"
+		]
+	}
+]
